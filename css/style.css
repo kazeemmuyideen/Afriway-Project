@@ -1,0 +1,167 @@
+/* background image */
+.bg-color{
+    background-color: #e6e6ff;
+}
+/* background image  */
+/* top header starts here */
+.top{
+    border-bottom: 0.2px solid rgb(77, 69, 69) ;
+}
+.logo img{
+    width: 50%;
+    padding-left: 0;
+    padding-right: 0;
+}
+.logo a{
+    padding-left: 0;
+    padding-right: 0;
+    text-decoration: none;
+    color: black;
+    font-size: 21px;
+    padding:2px 3px;
+    font-weight: 400;
+}
+.logo-s-2{
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 50%;
+}
+.logo-s-2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    padding:2px 3px;
+    margin:0 3px ;
+}
+.logo-s-2 a:hover{
+    color: rgb(148, 28, 28);
+}
+.logo-s-2 button{
+    padding: 13px 10px;
+    border: none;
+    border-radius:19px;
+    background-color: rgb(177, 21, 21);
+}
+
+.white-text{
+    font-size: 70px;
+    font-weight:700;
+    color: #fff;
+}
+.red-text{
+    font-size: 70px;
+    color: rgb(177, 21, 21);
+    font-weight:700;
+}
+.mission{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.mission {
+    margin-top: 60px;
+    padding-top: 20px;
+    text-align: center;
+    padding-left: O;
+}
+.mission a{
+    text-align: center;
+    font-size: 13px;
+    margin: 37px;
+    text-decoration: none;
+    color: #001100;
+}
+/* top header ends here */
+
+/* section1 starts here */
+.sec1{
+    padding-top: 150px;
+    padding-bottom: 200px;
+}
+.sec1 h2{
+    font-size: 55px;
+    font-weight: 600;
+}
+.white{
+    color: #fff;
+}
+.sec1 p{
+    letter-spacing: 0.5px;
+    padding-top: 10px;
+}
+.red{
+    color: red;
+}
+.sec1 img{
+    width: 450px;
+    padding-left: 60px;
+    height: 600px;
+}
+/* section1 ends here */
+
+/*  red background section starts here */
+.bgred{
+    background-color: #ff1a1a;
+    margin-top: -100px;
+    padding-bottom: 90px;
+}
+#text{
+    padding-top: 10%;
+}
+#text h2{
+    color: #e6e6ff;
+    font-size: 55px;
+    font-weight: 400;
+    padding:0px 0px;
+}
+#text p{
+    color: #e6e6ff;
+    font-size: 15px;
+}
+.btn1{
+    color: #e6e6ff;
+    background-color: #001a33;
+    border-style: none;
+    margin-top: 25px;
+    padding: 20px 40px;
+    border-radius: 50px;
+    
+}
+.img-company{
+    margin-top: 157px;
+    position: relative;
+    width: 100%;
+    min-height: 700px;
+    margin-bottom: 80px;
+    background-image: url(..//img/pexels-christina-morillo-1181622.jpeg);
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+.our-vision{
+    position: absolute;
+    left: 0%;
+    top: auto;
+    right: auto;
+    bottom: 0%;
+    min-height: 120px;
+    min-width: 450px;
+    padding: 65px 65px 65px 25px;
+    background-color: #fff;
+}
+.heading{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: #132433;
+    letter-spacing: -0.5px;
+    font-size: 44px;
+}
+.l-break{
+    width: 70px;
+    height: 2px;
+    margin-top: 35px;
+    background-color: #ED1C24;
+}
+
+
+/*  red background section ends here */
